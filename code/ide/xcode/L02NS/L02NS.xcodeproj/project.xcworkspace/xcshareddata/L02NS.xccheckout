@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F32B31A1-074D-4D97-B72D-5F49D117849C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>L02NS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E742EC98-E4CC-44E1-B73F-5C3CABB3DB1B</key>
+		<string>https://github.com/Ck0814/CPPLession.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/ide/xcode/L02NS/L02NS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E742EC98-E4CC-44E1-B73F-5C3CABB3DB1B</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ck0814/CPPLession.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E742EC98-E4CC-44E1-B73F-5C3CABB3DB1B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E742EC98-E4CC-44E1-B73F-5C3CABB3DB1B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPPLession</string>
+		</dict>
+	</array>
+</dict>
+</plist>
